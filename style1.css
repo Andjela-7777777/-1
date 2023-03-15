@@ -1,0 +1,132 @@
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.width{
+	width: 1670px;
+}
+.header-padding{
+	padding-top: 10px;
+}
+.header-height{
+	height: 60px;
+}
+.content-catalog-height{
+	height: 250px;
+}
+.content-catalog-number-margin{
+	margin-right: 10px;
+}
+.border{
+     border-bottom: solid #aa7dce 10px;
+}
+.header{
+    background-color: #565656;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.header-inner{
+	height: 50px;
+	width: 650px;
+    display: flex;
+}
+.header-logo{
+	width: 200px;
+	background-image: url(logotip2.jpg); 
+	background-size: 100% 100%;
+}
+.header-menu{
+	width: 660px;
+	display: flex;
+}
+.header-menu-number{
+	width: 220px;
+}
+.header-menu-text{
+	text-align: center;
+	font-size: 17px;
+	color: white;
+	text-decoration: none; 
+	padding-top: 10px;
+}
+.header-come{
+	width: 200px;
+	display: flex;
+}
+.header-menu-come-number{
+	width: 100px;
+}
+.header-menu-button{
+	height: 40px;
+	width: 100px;
+	background-color: #1f66d1;
+	border-radius: 20px;
+	color: white;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
+}
+.content{
+	height: 1500px;
+	background-color: #212326;
+}
+.content-1{
+	height: 350px;
+	padding-top: 50px;
+}
+.content-1-img{
+	background-image: url(IMG_7499.jpg); 
+	background-size: 100% 100%;
+	filter: blur(3px);
+}
+
+.content-1-2{
+	height: 350px;
+	width: 700px;
+	align-items: center;
+     justify-content: center;
+	background-color: #565656;
+}
+.content-1-2-img{
+	height: 300px;
+	width: 700px;
+}
+.content-1-2-switch{
+	height: 50px;
+	width: 700px;
+	background-color: pink;
+}
+.content-2{
+	height: 300px;
+}
+.content-catalog{ 
+	width: 1000px;
+	display: flex;
+	padding-top: 25px;
+}
+.content-catalog-number{ 
+	width: 192px;
+	background-color: white;
+	border-radius: 15px;
+}
+.content-3{
+	height: 200px;
+}
+.content-3-number{
+	height: 170px;
+	width: 1000px;
+	background-color: #565656;
+	display: flex;
+}
+.content-3-number-section{
+	height: 170px;
+	width: 500px;
+	background-color: yellow;
+	display: flex;
+}
+.content-3-number-section-1{
+	height: 170px;
+	width: 200px;
+	background-color: white;
+}    

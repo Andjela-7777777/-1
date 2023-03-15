@@ -1,0 +1,170 @@
+h1{
+	font-family: 'Open Sans', Open Sans;
+}
+p{
+	font-family: 'Open Sans', Open Sans;
+}
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.conten-margin{
+	margin-top: 50px;
+}
+.body{
+	background-color: #f2f2f3;
+}
+.header{
+	height: 100px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+.width{
+	width: 1500px;
+}
+.pro-cat{
+	width: 350px;
+	text-align: center;
+	padding-top: 20px;
+}
+.header-text{
+	font-size: 30px;
+	text-decoration: none;
+	color: white;
+}
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.df{
+	display: flex;
+}
+.bd-header{
+	background-color: #40454b;
+}
+.bd-content{
+	background-color: #33363f;
+}
+.banner-mg{
+	margin-right: 10px;
+}
+.catalog-mg{
+	margin-top: 30px;
+}
+.margin{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	height: 60px;
+}
+.content{
+	height: 1050px;
+}
+.logo{
+	width: 200px;
+	background-image: url(Group28.png); 
+	background-size: 100% 100%;
+}
+.menu{
+	width: 700px;
+}
+.profil{
+	width: 700px;
+}
+.look{
+	height: 400px;
+	padding-top: 50px;
+}
+.banner{
+	height: 350px;
+}
+.name{
+	height: 300px;
+}
+.button{
+	height: 40px;
+	width: 300px;
+	background-color: #1f66d1;
+	border-radius: 20px;
+	color: white;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
+}
+.pro{
+	width: 60px;
+	margin-left: 120px;
+	border-radius: 30px;
+	background-color: black;
+}
+.content-img{
+	padding-top: 50px;
+	height: 950px;
+	width: 500px;
+	background-color: #40454b;
+}
+.content-img1{
+	height: 900px;
+	width: 450px;
+	background-color: #40454b;
+}
+.manga-img{
+	height: 450px;
+	width: 300px;
+}
+.manga-text-name{
+	height: 80px;
+	width: 450px;
+}
+.manga-text{
+	color: white;
+	font-size: 40px;
+	margin: 0px;
+}
+.comic-img{
+	height: 400px;
+	width: 300px;
+	background-size: 100% 100%;
+	background-color: black;
+}
+.comic-rating{
+	height: 100px;
+	width: 500px;
+}
+.comic-opis-1{
+	height: 300px;
+	width: 450px;
+}
+.comic-opis-2{
+	height: 300px;
+	width: 450px;
+	border-radius: 30px;
+	background-color: #d9d9d9;
+}
+.comic-glava{
+	height: 1000px;
+	width: 1200px;
+	margin-top: 50px;
+}
+.comic-glava-1{
+	height: 150px;
+	width: 1049px;
+	border: solid black 1px ;
+}
+.glava-img{
+	height: 150px;
+	width: 150px;
+	background-image: url(IMG_7512.jpg);
+	background-size: 100% 100%;
+}
+.glava-img-box-text{
+	color: white;
+	font-size: 30px;
+	margin: 0px;
+}
+.glava-img-box{
+	height: 150px;
+	width: 800px;
+}

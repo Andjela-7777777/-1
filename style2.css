@@ -1,0 +1,115 @@
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.body{
+	background-color: #f2f2f3;
+}
+.header{
+	height: 100px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+.width{
+	width: 1600px;
+}
+.pro-cat{
+	width: 350px;
+	text-align: center;
+	padding-top: 20px;
+}
+.header-text{
+	text-decoration: none;
+	color: white;
+}
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.df{
+	display: flex;
+}
+.bd-header{
+	background-color: #40454b;
+}
+.bd-content{
+	background-color: #33363f;
+}
+.banner-mg{
+	margin-right: 10px;
+}
+.catalog-mg{
+	margin-top: 30px;
+}
+.margin{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	height: 60px;
+}
+.content{
+	height: 1500px;
+}
+.logo{
+	width: 200px;
+	background-image: url(Group28.png); 
+	background-size: 100% 100%;
+}
+.menu{
+	width: 700px;
+}
+.profil{
+	width: 700px;
+}
+.look{
+	height: 400px;
+	padding-top: 50px;
+}
+.banner{
+	height: 350px;
+}
+.name{
+	height: 300px;
+}
+.button{
+	height: 40px;
+	width: 300px;
+	background-color: #1f66d1;
+	border-radius: 20px;
+	color: white;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
+}
+.pro{
+	width: 60px;
+	margin-left: 120px;
+	border-radius: 30px;
+	background-color: black;
+}
+.name1{
+height: 200px;
+}
+.name2{
+height: 100px;
+background-color: #40454b;
+}
+.margin-box{
+	height: 10px;
+	background-color: purple;
+}
+.p-text{
+	font-size: 30px;
+	text-align: center; 
+	margin: 0px;
+}
+.vxod{
+	height: 400px;
+}
+.vxod-box{
+	height: 300px;
+	width: 300px;
+	background-color: grey;
+}

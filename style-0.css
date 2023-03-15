@@ -1,0 +1,176 @@
+h1{
+	font-family: 'Open Sans', Open Sans;
+}
+p{
+	font-family: 'Open Sans', Open Sans;
+}
+.scale{
+    transition: 1s;                             /* Время эффекта */
+}
+.scale:hover {
+    transform: scale(1.2);                     /* Увеличиваем масштаб */
+}
+.width{
+	width: 1600px;
+}
+.body{
+	background-color: #f2f2f3;
+}
+.auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.df{
+	display: flex;
+}
+.bd-header{
+	background-color: #40454b;
+}
+.bd-content{
+	background-color: #33363f;
+}
+.banner-mg{
+	margin-right: 10px;
+}
+.catalog-mg{
+	margin-top: 30px;
+}
+.margin{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	height: 60px;
+}
+.content{
+	height: 2000px;
+}
+.logo{
+	width: 200px;
+	background-image: url(Group28.png); 
+	background-size: 100% 100%;
+}
+.menu{
+	width: 700px;
+}
+.profil{
+	width: 700px;
+}
+.look{
+	height: 400px;
+	padding-top: 50px;
+}
+.banner{
+	height: 350px;
+}
+.manga{
+	height: 200px;
+}
+.pro-cat{
+	width: 350px;
+	text-align: center;
+	padding-top: 20px;
+}
+.header-text{
+	text-decoration: none;
+	color: white;
+}
+.button-pro{
+	width: 500px;
+}
+.button-pro-1{
+	width: 300px;
+	padding-top: 10px;
+}
+.button-pro-2{
+	width: 200px;
+}
+.button{
+	height: 40px;
+	width: 300px;
+	background-color: #1f66d1;
+	border-radius: 20px;
+	color: white;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
+}
+.pro{
+	width: 60px;
+	margin-left: 120px;
+	border-radius: 30px;
+	background-color: black;
+}
+.look-1{
+	background-image: url(IMG_7499.jpg); 
+}
+.look-2{
+	height: 300px;
+	width: 600px;
+    background-image: url(IMG_7500.jpg); 
+	background-size: 100% 100%;
+}
+.banner-skelet-1{
+	height: 325px;
+	width: 1500px;
+	padding-top: 25px;
+}
+.banner-skelet-2{
+	height: 300px;
+	width: 1500px;
+}
+.banner-number{
+	height: 300px;
+	width: 292px;
+	background-color: white;
+	border-radius: 15px;
+}
+.catalog{
+	height: 175px;
+	width: 1500px;
+	padding-top: 25px;
+}
+.catalog-border{
+	height: 150px;
+	width: 1400px;
+}
+.catalog-1{
+	height: 150px;
+	width: 550px;
+}
+.catalog-decor{
+	height: 150px;
+	width: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: grey;
+}
+.catalog-img-1{
+	height: 150px;
+	width: 150px;
+	background-color: grey;
+}
+.catalog-name{
+	height: 150px;
+	width: 400px;
+}
+.catalog-name-1{
+	height: 80px;
+	width: 400px;
+	background-color: black;
+}
+.catalog-name-2{
+	height: 70px;
+	width: 300px;
+}
+.catalog-name-1-text{
+	font-size: 25px;
+	color: white;
+	margin-bottom: -30px;
+}
+.comic-img{
+	height: 300px;
+	width: 292px;
+	background-size: 100% 100%;
+
+}
